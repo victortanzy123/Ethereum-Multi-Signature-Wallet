@@ -1,0 +1,13 @@
+{
+  "name": "Ethereum-Multi-Signature-Wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victortanzy123/Ethereum-Multi-Signature-Wallet.git",
+  "author": "victortanzy123 <83770436+victortanzy123@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@openzeppelin/test-helpers": "^0.5.12",
+    "@truffle/hdwallet-provider": "^1.4.1"
+  }
+}
